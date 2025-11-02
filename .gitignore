@@ -1,0 +1,12 @@
+# Data
+Results/
+# Python
+venv
+.venv
+env
+# Dev
+.env
+# IDEs
+.vscode
+.idea
+
