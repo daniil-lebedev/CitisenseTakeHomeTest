@@ -1,0 +1,251 @@
+{
+  "keyword": "Taylor Swift",
+  "summary": {
+    "eventbrite_events": 17,
+    "reddit_mentions": 6,
+    "google_trends_score": null
+  },
+  "detailed_data": {
+    "eventbrite": {
+      "count": 17,
+      "events": [
+        {
+          "title": "Taylor Swift Tribute",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-tickets-1585702010399?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute Concert at Maesycwmmer Community Centre",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-concert-at-maesycwmmer-community-centre-tickets-1704311975999?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-tickets-1247064937799?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Newtownards | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-newtownards-swift-sensation-we-love-tributes-tickets-1873860610529?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Craigavon | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-craigavon-swift-sensation-we-love-tributes-tickets-1873877992519?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Party - Taylor Swift Night",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-party-taylor-swift-night-tickets-1918018187029?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Ballymoney | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-ballymoney-swift-sensation-we-love-tributes-tickets-1873814041239?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Derry City | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-derry-city-swift-sensation-we-love-tributes-tickets-1873893819859?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute at New Bestwood Road Social Club, 16th November 2025",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-at-new-bestwood-road-social-club-16th-november-2025-tickets-1647744972569?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift & Friends | Tribute Nights at Blundell Street Restaurant",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-friends-tribute-nights-at-blundell-street-restaurant-tickets-1125302362659?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "TAYLOR SWIFT LIFE OF A SHOWGIRL PARTY",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-life-of-a-showgirl-party-tickets-1816296966119?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Enniskillen | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-enniskillen-swift-sensation-we-love-tributes-tickets-1873840059059?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute at Grampian, Corby on 28th December 2025",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-at-grampian-corby-on-28th-december-2025-tickets-1652948546599?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift Tribute in Belfast City | Swift Sensation | We Love Tributes",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/taylor-swift-tribute-in-belfast-city-swift-sensation-we-love-tributes-tickets-1873928633989?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "CHRISTMAS FAMILY SILENT DISCO - 2 DJ'S - TAYLOR SWIFT VS XMAS",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/christmas-family-silent-disco-2-djs-taylor-swift-vs-xmas-tickets-1782060193009?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "Taylor Swift 5k,10k and 1 Mile Fun Run",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.com/e/taylor-swift-5k10k-and-1-mile-fun-run-tickets-1487084332269?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        },
+        {
+          "title": "GS Taylor Swift: Friday Theme Night Pottery Painting",
+          "date_text": "",
+          "location": "",
+          "link": "https://www.eventbrite.co.uk/e/gs-taylor-swift-friday-theme-night-pottery-painting-tickets-1870195116939?aff=ebdssbdestsearch",
+          "relevance_score": 100,
+          "source": "eventbrite_scrape"
+        }
+      ],
+      "source": "eventbrite_scrape",
+      "selector_used": ".event-card",
+      "total_events_found": 20,
+      "duplicates_removed": 20,
+      "relevance_threshold": 90,
+      "missing_dates": 17,
+      "missing_locations": 17
+    },
+    "reddit": {
+      "count": 6,
+      "posts": [
+        {
+          "title": "As someone who works with several Swifties, I can’t understand the fuss. What is so different with Taylor Swift, than Lady Gaga or Katy Perry?",
+          "subreddit": "AskUK",
+          "author": "DinOfDancing",
+          "score": 728,
+          "num_comments": 775,
+          "created_utc": 1718548464.0,
+          "created_date": "2024-06-16 15:34:24",
+          "url": "https://reddit.com/r/AskUK/comments/1dh8w3c/as_someone_who_works_with_several_swifties_i_cant/",
+          "relevance_score": 100
+        },
+        {
+          "title": "Wembley Stadium for Taylor Swift concert",
+          "subreddit": "london",
+          "author": "Camelotcrusade76",
+          "score": 0,
+          "num_comments": 15,
+          "created_utc": 1718314541.0,
+          "created_date": "2024-06-13 22:35:41",
+          "url": "https://reddit.com/r/london/comments/1dfaeyd/wembley_stadium_for_taylor_swift_concert/",
+          "relevance_score": 100
+        },
+        {
+          "title": "My daughter wants to listen to Taylor Swift outside Wembley on 21st…",
+          "subreddit": "london",
+          "author": "charlitwist",
+          "score": 557,
+          "num_comments": 214,
+          "created_utc": 1718305474.0,
+          "created_date": "2024-06-13 20:04:34",
+          "url": "https://reddit.com/r/london/comments/1df6vau/my_daughter_wants_to_listen_to_taylor_swift/",
+          "relevance_score": 100
+        },
+        {
+          "title": "Taylor Swift fans make earth move at Edinburgh gig",
+          "subreddit": "unitedkingdom",
+          "author": "tika_dengu",
+          "score": 0,
+          "num_comments": 48,
+          "created_utc": 1718275807.0,
+          "created_date": "2024-06-13 11:50:07",
+          "url": "https://reddit.com/r/unitedkingdom/comments/1dew31x/taylor_swift_fans_make_earth_move_at_edinburgh_gig/",
+          "relevance_score": 100
+        },
+        {
+          "title": "Taylor Swift Megathread. Ask all your questions here. No ticket resale.",
+          "subreddit": "Liverpool",
+          "author": "pgliver",
+          "score": 80,
+          "num_comments": 161,
+          "created_utc": 1718182301.0,
+          "created_date": "2024-06-12 09:51:41",
+          "url": "https://reddit.com/r/Liverpool/comments/1de1zf5/taylor_swift_megathread_ask_all_your_questions/",
+          "relevance_score": 100
+        },
+        {
+          "title": "Following major donation from Taylor Swift, Swifties offer their own £13 donations to Edinburgh food banks",
+          "subreddit": "Edinburgh",
+          "author": "brandenharvey",
+          "score": 176,
+          "num_comments": 5,
+          "created_utc": 1718126324.0,
+          "created_date": "2024-06-11 18:18:44",
+          "url": "https://reddit.com/r/Edinburgh/comments/1ddjlbo/following_major_donation_from_taylor_swift/",
+          "relevance_score": 100
+        }
+      ],
+      "in_date_range": 7,
+      "source": "reddit_api",
+      "total_posts_found": 205,
+      "posts_in_date_range": 7,
+      "relevance_threshold": 90
+    },
+    "google_trends": null
+  },
+  "date": "2024-06-10",
+  "collected_at": "2025-11-02T22:21:26.630006+00:00",
+  "search_metadata": {
+    "search_duration_seconds": 5.83,
+    "date_range": "2024-06-10 to 2024-06-17",
+    "relevance_threshold": 90,
+    "sources_attempted": [
+      "eventbrite",
+      "reddit",
+      "google_trends"
+    ],
+    "sources_successful": [
+      "eventbrite",
+      "reddit"
+    ]
+  }
+}
